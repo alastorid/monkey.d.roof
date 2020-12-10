@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://rent.591.com.tw/rent-detail-*.html
+// @updateURL    https://raw.githubusercontent.com/alastorid/monkey.d.roof/main/g.js
 // @grant        none
 // ==/UserScript==
 
